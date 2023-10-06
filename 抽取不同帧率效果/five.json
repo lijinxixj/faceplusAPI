@@ -1,0 +1,3182 @@
+{
+    "id1": 1,
+    "aid": 2,
+    "FPS": 30.0,
+    "results": [
+        {
+            "frame": 150,
+            "request": {
+                "request_id": "1695045743,5bc571b7-3533-4afa-9d08-f62d5f1be02c",
+                "time_used": 406,
+                "faces": [
+                    {
+                        "face_token": "577cd46dd6c5d2539e043ec56100a6e5",
+                        "face_rectangle": {
+                            "top": 262,
+                            "left": 294,
+                            "width": 367,
+                            "height": 367
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 26
+                            },
+                            "smile": {
+                                "value": 99.979,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 21.406029,
+                                "roll_angle": 10.486526,
+                                "yaw_angle": -20.591923
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.333,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.333,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.333,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 99.75,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.197,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.001,
+                                    "occlusion": 0.052
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 96.58,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 3.395,
+                                    "normal_glass_eye_close": 0.001,
+                                    "dark_glasses": 0.019,
+                                    "occlusion": 0.005
+                                }
+                            },
+                            "emotion": {
+                                "anger": 4.713,
+                                "disgust": 0.003,
+                                "fear": 0.017,
+                                "happiness": 95.258,
+                                "neutral": 0.003,
+                                "sadness": 0.003,
+                                "surprise": 0.003
+                            },
+                            "facequality": {
+                                "value": 5.387,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 76.343,
+                                "female_score": 79.242
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 99.701,
+                                "close": 0.294,
+                                "open": 0.005
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.692,
+                                    "position_y_coordinate": 0.466,
+                                    "vector_x_component": 0.599,
+                                    "vector_y_component": 0.162,
+                                    "vector_z_component": 0.784
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.627,
+                                    "position_y_coordinate": 0.393,
+                                    "vector_x_component": 0.4,
+                                    "vector_y_component": 0.136,
+                                    "vector_z_component": 0.906
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 39.274,
+                                "stain": 6.027,
+                                "dark_circle": 3.988,
+                                "acne": 4.22
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0.002
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.036
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.008,
+                                "face_right_occlusion": 0.239
+                            }
+                        }
+                    }
+                ],
+                "image_id": "fNy93tL0xwXkfqktjgsAOg==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 156,
+            "request": {
+                "request_id": "1695045743,959de054-7833-4e2a-b815-53baea5aaeaf",
+                "time_used": 126,
+                "faces": [
+                    {
+                        "face_token": "cfe8a2c426dec9bc6ec66486cb7d55d5",
+                        "face_rectangle": {
+                            "top": 270,
+                            "left": 300,
+                            "width": 366,
+                            "height": 366
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 20
+                            },
+                            "smile": {
+                                "value": 99.992,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 22.092083,
+                                "roll_angle": 9.545836,
+                                "yaw_angle": -19.334995
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.264,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.264,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.264,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.586,
+                                    "no_glass_eye_close": 99.389,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.025
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 50.264,
+                                    "no_glass_eye_close": 1.051,
+                                    "normal_glass_eye_open": 0.713,
+                                    "normal_glass_eye_close": 0.098,
+                                    "dark_glasses": 0.386,
+                                    "occlusion": 47.487
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.011,
+                                "disgust": 0.011,
+                                "fear": 0.101,
+                                "happiness": 90.449,
+                                "neutral": 0.011,
+                                "sadness": 9.404,
+                                "surprise": 0.011
+                            },
+                            "facequality": {
+                                "value": 7.393,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 74.99,
+                                "female_score": 79.26
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 2.388,
+                                "close": 1.509,
+                                "open": 96.103
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.535,
+                                    "position_y_coordinate": 0.474,
+                                    "vector_x_component": -0.073,
+                                    "vector_y_component": 0.439,
+                                    "vector_z_component": 0.896
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.47,
+                                    "position_y_coordinate": 0.439,
+                                    "vector_x_component": -0.045,
+                                    "vector_y_component": 0.315,
+                                    "vector_z_component": 0.948
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 59.852,
+                                "stain": 5.638,
+                                "dark_circle": 3.7,
+                                "acne": 5.628
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.079
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.011,
+                                "face_right_occlusion": 0.289
+                            }
+                        }
+                    }
+                ],
+                "image_id": "/vizOYSepenfaJctxEurpg==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 162,
+            "request": {
+                "request_id": "1695045744,92c0ab99-a174-4e2f-a065-47364742e226",
+                "time_used": 358,
+                "faces": [
+                    {
+                        "face_token": "8a2f46abde93b9e975c9b1068e6c0e8c",
+                        "face_rectangle": {
+                            "top": 275,
+                            "left": 304,
+                            "width": 355,
+                            "height": 355
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 21
+                            },
+                            "smile": {
+                                "value": 99.995,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 18.859016,
+                                "roll_angle": 12.574596,
+                                "yaw_angle": -20.713161
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.113,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.113,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.113,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 99.971,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.025,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.004
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 99.414,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.584,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.001
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.032,
+                                "disgust": 0.001,
+                                "fear": 0.291,
+                                "happiness": 99.671,
+                                "neutral": 0.001,
+                                "sadness": 0.001,
+                                "surprise": 0.001
+                            },
+                            "facequality": {
+                                "value": 6.9,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 75.294,
+                                "female_score": 79.618
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.0,
+                                "close": 0.0,
+                                "open": 100.0
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.339,
+                                    "position_y_coordinate": 0.465,
+                                    "vector_x_component": -0.549,
+                                    "vector_y_component": 0.266,
+                                    "vector_z_component": 0.793
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.342,
+                                    "position_y_coordinate": 0.438,
+                                    "vector_x_component": -0.566,
+                                    "vector_y_component": 0.168,
+                                    "vector_z_component": 0.807
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 49.521,
+                                "stain": 8.738,
+                                "dark_circle": 2.715,
+                                "acne": 8.797
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.099
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.022,
+                                "face_right_occlusion": 0.15
+                            }
+                        }
+                    }
+                ],
+                "image_id": "IKblBrlqYYlDN3NxOvVmAQ==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 168,
+            "request": {
+                "request_id": "1695045745,4993945b-f20a-4d45-bde2-2e4a22781721",
+                "time_used": 141,
+                "faces": [
+                    {
+                        "face_token": "af6274f977ddbbfc81361a640f8f909e",
+                        "face_rectangle": {
+                            "top": 266,
+                            "left": 282,
+                            "width": 356,
+                            "height": 356
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 22
+                            },
+                            "smile": {
+                                "value": 99.998,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 20.64278,
+                                "roll_angle": 12.9813385,
+                                "yaw_angle": -12.560195
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.272,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.272,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.272,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 99.997,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.003,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.0
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 99.528,
+                                    "no_glass_eye_close": 0.002,
+                                    "normal_glass_eye_open": 0.127,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.156,
+                                    "occlusion": 0.187
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.009,
+                                "disgust": 0.0,
+                                "fear": 0.009,
+                                "happiness": 99.978,
+                                "neutral": 0.001,
+                                "sadness": 0.0,
+                                "surprise": 0.002
+                            },
+                            "facequality": {
+                                "value": 37.543,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 79.938,
+                                "female_score": 81.146
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 89.77,
+                                "close": 0.0,
+                                "open": 10.23
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.319,
+                                    "position_y_coordinate": 0.454,
+                                    "vector_x_component": -0.59,
+                                    "vector_y_component": 0.286,
+                                    "vector_z_component": 0.755
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.33,
+                                    "position_y_coordinate": 0.433,
+                                    "vector_x_component": -0.636,
+                                    "vector_y_component": 0.061,
+                                    "vector_z_component": 0.769
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 67.612,
+                                "stain": 5.623,
+                                "dark_circle": 4.771,
+                                "acne": 5.381
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.083
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.014,
+                                "face_right_occlusion": 0.046
+                            }
+                        }
+                    }
+                ],
+                "image_id": "m6sA5YdBRT5QZPayqoLfJw==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 174,
+            "request": {
+                "request_id": "1695045745,6b23b416-d5fd-4c19-b912-325a41f3441e",
+                "time_used": 156,
+                "faces": [
+                    {
+                        "face_token": "f1924842b069eca5eb5918f3785c391a",
+                        "face_rectangle": {
+                            "top": 261,
+                            "left": 270,
+                            "width": 353,
+                            "height": 353
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 21
+                            },
+                            "smile": {
+                                "value": 99.999,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 20.889807,
+                                "roll_angle": 8.331395,
+                                "yaw_angle": -6.4968357
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.278,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.278,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.278,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 99.691,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.3,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.001,
+                                    "occlusion": 0.009
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 91.205,
+                                    "no_glass_eye_close": 0.579,
+                                    "normal_glass_eye_open": 0.035,
+                                    "normal_glass_eye_close": 0.015,
+                                    "dark_glasses": 4.277,
+                                    "occlusion": 3.888
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.0,
+                                "disgust": 0.0,
+                                "fear": 0.0,
+                                "happiness": 100.0,
+                                "neutral": 0.0,
+                                "sadness": 0.0,
+                                "surprise": 0.0
+                            },
+                            "facequality": {
+                                "value": 61.366,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 80.926,
+                                "female_score": 82.604
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.0,
+                                "close": 99.857,
+                                "open": 0.143
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.313,
+                                    "position_y_coordinate": 0.462,
+                                    "vector_x_component": -0.653,
+                                    "vector_y_component": 0.266,
+                                    "vector_z_component": 0.71
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.281,
+                                    "position_y_coordinate": 0.443,
+                                    "vector_x_component": -0.702,
+                                    "vector_y_component": 0.128,
+                                    "vector_z_component": 0.701
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 78.788,
+                                "stain": 19.399,
+                                "dark_circle": 4.991,
+                                "acne": 4.885
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0.006
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.373
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.074,
+                                "face_right_occlusion": 0.393
+                            }
+                        }
+                    }
+                ],
+                "image_id": "sO04judRQxaaHGo6woQpdg==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 180,
+            "request": {
+                "request_id": "1695045746,dd01e93e-8027-417e-957a-fdf8aa199ba2",
+                "time_used": 125,
+                "faces": [
+                    {
+                        "face_token": "e368d6355a14785b606d9a9af94ab1f9",
+                        "face_rectangle": {
+                            "top": 247,
+                            "left": 269,
+                            "width": 348,
+                            "height": 348
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 23
+                            },
+                            "smile": {
+                                "value": 99.998,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 7.221565,
+                                "roll_angle": 10.428023,
+                                "yaw_angle": -4.9768777
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.342,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.342,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.342,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 94.787,
+                                    "no_glass_eye_close": 0.008,
+                                    "normal_glass_eye_open": 0.533,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.123,
+                                    "occlusion": 4.549
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 35.763,
+                                    "no_glass_eye_close": 11.47,
+                                    "normal_glass_eye_open": 0.049,
+                                    "normal_glass_eye_close": 0.068,
+                                    "dark_glasses": 1.318,
+                                    "occlusion": 51.332
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.002,
+                                "disgust": 0.002,
+                                "fear": 0.047,
+                                "happiness": 97.517,
+                                "neutral": 0.002,
+                                "sadness": 0.002,
+                                "surprise": 2.43
+                            },
+                            "facequality": {
+                                "value": 89.087,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 76.01,
+                                "female_score": 82.248
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.0,
+                                "close": 0.001,
+                                "open": 99.999
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.319,
+                                    "position_y_coordinate": 0.451,
+                                    "vector_x_component": -0.624,
+                                    "vector_y_component": 0.235,
+                                    "vector_z_component": 0.745
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.253,
+                                    "position_y_coordinate": 0.465,
+                                    "vector_x_component": -0.593,
+                                    "vector_y_component": 0.148,
+                                    "vector_z_component": 0.791
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 87.516,
+                                "stain": 12.774,
+                                "dark_circle": 3.232,
+                                "acne": 2.297
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.004
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.001,
+                                "face_right_occlusion": 0.004
+                            }
+                        }
+                    }
+                ],
+                "image_id": "aXeoE+3Lzr3gmAmypl5nWQ==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 186,
+            "request": {
+                "request_id": "1695045746,a0dcf4b6-5fd1-4372-b962-df50cc937874",
+                "time_used": 127,
+                "faces": [
+                    {
+                        "face_token": "2bddcdb314e690fbf292e35930abc959",
+                        "face_rectangle": {
+                            "top": 240,
+                            "left": 251,
+                            "width": 358,
+                            "height": 358
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 21
+                            },
+                            "smile": {
+                                "value": 100.0,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 9.23364,
+                                "roll_angle": 7.3050323,
+                                "yaw_angle": 6.313082
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.043,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.043,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.043,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 99.916,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.078,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.001,
+                                    "occlusion": 0.005
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 98.24,
+                                    "no_glass_eye_close": 0.373,
+                                    "normal_glass_eye_open": 0.065,
+                                    "normal_glass_eye_close": 0.006,
+                                    "dark_glasses": 0.223,
+                                    "occlusion": 1.093
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.0,
+                                "disgust": 0.0,
+                                "fear": 0.0,
+                                "happiness": 99.999,
+                                "neutral": 0.0,
+                                "sadness": 0.0,
+                                "surprise": 0.0
+                            },
+                            "facequality": {
+                                "value": 85.871,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 83.668,
+                                "female_score": 89.231
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.001,
+                                "close": 0.001,
+                                "open": 99.998
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.337,
+                                    "position_y_coordinate": 0.475,
+                                    "vector_x_component": -0.582,
+                                    "vector_y_component": 0.24,
+                                    "vector_z_component": 0.777
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.259,
+                                    "position_y_coordinate": 0.467,
+                                    "vector_x_component": -0.585,
+                                    "vector_y_component": 0.122,
+                                    "vector_z_component": 0.802
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 61.303,
+                                "stain": 13.63,
+                                "dark_circle": 2.775,
+                                "acne": 3.226
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.001
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.001,
+                                "face_right_occlusion": 0.002
+                            }
+                        }
+                    }
+                ],
+                "image_id": "Wzgd5SP+gY7VF+Ofa3oI3A==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 192,
+            "request": {
+                "request_id": "1695045746,1f43343d-eb35-4211-a652-eaa287daa971",
+                "time_used": 193,
+                "faces": [
+                    {
+                        "face_token": "3b25911da61a919380b1d76cf99a1e21",
+                        "face_rectangle": {
+                            "top": 242,
+                            "left": 246,
+                            "width": 354,
+                            "height": 354
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 21
+                            },
+                            "smile": {
+                                "value": 100.0,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 9.75968,
+                                "roll_angle": 8.48881,
+                                "yaw_angle": 10.139628
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.033,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.033,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.033,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 99.991,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.007,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.001
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 98.604,
+                                    "no_glass_eye_close": 0.426,
+                                    "normal_glass_eye_open": 0.09,
+                                    "normal_glass_eye_close": 0.003,
+                                    "dark_glasses": 0.115,
+                                    "occlusion": 0.763
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.0,
+                                "disgust": 0.002,
+                                "fear": 0.0,
+                                "happiness": 99.996,
+                                "neutral": 0.0,
+                                "sadness": 0.0,
+                                "surprise": 0.002
+                            },
+                            "facequality": {
+                                "value": 75.36,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 83.083,
+                                "female_score": 88.461
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.353,
+                                "close": 0.0,
+                                "open": 99.647
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.379,
+                                    "position_y_coordinate": 0.459,
+                                    "vector_x_component": -0.601,
+                                    "vector_y_component": 0.23,
+                                    "vector_z_component": 0.765
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.255,
+                                    "position_y_coordinate": 0.462,
+                                    "vector_x_component": -0.601,
+                                    "vector_y_component": 0.144,
+                                    "vector_z_component": 0.786
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 21.497,
+                                "stain": 19.516,
+                                "dark_circle": 3.663,
+                                "acne": 10.447
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0,
+                                "face_right_occlusion": 0.001
+                            }
+                        }
+                    }
+                ],
+                "image_id": "kaRjkJHWm8uidsa13HazuQ==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 198,
+            "request": {
+                "request_id": "1695045747,43b88873-ce33-43ed-a752-1697e8bcc54e",
+                "time_used": 124,
+                "faces": [
+                    {
+                        "face_token": "5fb59b5df1cb9e3194784ab9ac364022",
+                        "face_rectangle": {
+                            "top": 242,
+                            "left": 241,
+                            "width": 350,
+                            "height": 350
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 21
+                            },
+                            "smile": {
+                                "value": 100.0,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 14.876909,
+                                "roll_angle": 6.392675,
+                                "yaw_angle": 12.629033
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.037,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.037,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.037,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 99.914,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.012,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.031,
+                                    "occlusion": 0.043
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 99.896,
+                                    "no_glass_eye_close": 0.003,
+                                    "normal_glass_eye_open": 0.047,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.009,
+                                    "occlusion": 0.044
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.0,
+                                "disgust": 0.0,
+                                "fear": 0.0,
+                                "happiness": 99.997,
+                                "neutral": 0.0,
+                                "sadness": 0.0,
+                                "surprise": 0.002
+                            },
+                            "facequality": {
+                                "value": 55.031,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 82.623,
+                                "female_score": 88.002
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.606,
+                                "close": 0.0,
+                                "open": 99.394
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.392,
+                                    "position_y_coordinate": 0.457,
+                                    "vector_x_component": -0.575,
+                                    "vector_y_component": 0.227,
+                                    "vector_z_component": 0.786
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.262,
+                                    "position_y_coordinate": 0.473,
+                                    "vector_x_component": -0.604,
+                                    "vector_y_component": 0.151,
+                                    "vector_z_component": 0.783
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 46.023,
+                                "stain": 6.535,
+                                "dark_circle": 5.103,
+                                "acne": 4.333
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.001,
+                                "face_right_occlusion": 0
+                            }
+                        }
+                    }
+                ],
+                "image_id": "C/PLSxIBDtJOH69u7hQqaA==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 204,
+            "request": {
+                "request_id": "1695045747,e553c6ad-0717-4d72-a18d-fd34783c637e",
+                "time_used": 384,
+                "faces": [
+                    {
+                        "face_token": "2e11fec5b69e6e28ea301c0ae0980c48",
+                        "face_rectangle": {
+                            "top": 244,
+                            "left": 232,
+                            "width": 354,
+                            "height": 354
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 21
+                            },
+                            "smile": {
+                                "value": 100.0,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 16.769106,
+                                "roll_angle": 4.2388477,
+                                "yaw_angle": 14.954328
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.033,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.033,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.033,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 99.968,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.008,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.008,
+                                    "occlusion": 0.016
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 99.116,
+                                    "no_glass_eye_close": 0.038,
+                                    "normal_glass_eye_open": 0.458,
+                                    "normal_glass_eye_close": 0.002,
+                                    "dark_glasses": 0.064,
+                                    "occlusion": 0.322
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.0,
+                                "disgust": 0.0,
+                                "fear": 0.0,
+                                "happiness": 99.999,
+                                "neutral": 0.0,
+                                "sadness": 0.0,
+                                "surprise": 0.0
+                            },
+                            "facequality": {
+                                "value": 36.705,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 82.205,
+                                "female_score": 87.422
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.004,
+                                "close": 0.0,
+                                "open": 99.996
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.382,
+                                    "position_y_coordinate": 0.443,
+                                    "vector_x_component": -0.569,
+                                    "vector_y_component": 0.243,
+                                    "vector_z_component": 0.785
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.267,
+                                    "position_y_coordinate": 0.476,
+                                    "vector_x_component": -0.611,
+                                    "vector_y_component": 0.15,
+                                    "vector_z_component": 0.778
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 44.738,
+                                "stain": 5.431,
+                                "dark_circle": 6.971,
+                                "acne": 7.855
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.002
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.038,
+                                "face_right_occlusion": 0.001
+                            }
+                        }
+                    }
+                ],
+                "image_id": "YiloixM3bfof4d7rQfv3Dw==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 210,
+            "request": {
+                "request_id": "1695045748,1f455c12-2a95-41f8-9995-82e01c8f9491",
+                "time_used": 138,
+                "faces": [
+                    {
+                        "face_token": "2d572d4a29309135c1306d8dffd0f614",
+                        "face_rectangle": {
+                            "top": 246,
+                            "left": 224,
+                            "width": 355,
+                            "height": 355
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 23
+                            },
+                            "smile": {
+                                "value": 100.0,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 17.334473,
+                                "roll_angle": 2.9580956,
+                                "yaw_angle": 15.119898
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.044,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.044,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.044,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 99.991,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.003,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.003,
+                                    "occlusion": 0.003
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 99.1,
+                                    "no_glass_eye_close": 0.023,
+                                    "normal_glass_eye_open": 0.725,
+                                    "normal_glass_eye_close": 0.008,
+                                    "dark_glasses": 0.035,
+                                    "occlusion": 0.109
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.0,
+                                "disgust": 0.0,
+                                "fear": 0.0,
+                                "happiness": 100.0,
+                                "neutral": 0.0,
+                                "sadness": 0.0,
+                                "surprise": 0.0
+                            },
+                            "facequality": {
+                                "value": 34.332,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 80.755,
+                                "female_score": 85.189
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 99.908,
+                                "close": 0.0,
+                                "open": 0.092
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.375,
+                                    "position_y_coordinate": 0.418,
+                                    "vector_x_component": -0.526,
+                                    "vector_y_component": 0.204,
+                                    "vector_z_component": 0.826
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.263,
+                                    "position_y_coordinate": 0.479,
+                                    "vector_x_component": -0.619,
+                                    "vector_y_component": 0.138,
+                                    "vector_z_component": 0.774
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 52.426,
+                                "stain": 6.997,
+                                "dark_circle": 4.451,
+                                "acne": 8.236
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.006
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.023,
+                                "face_right_occlusion": 0.001
+                            }
+                        }
+                    }
+                ],
+                "image_id": "tTIZnFHCZ6CgZ8gm0yJ6zw==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 216,
+            "request": {
+                "request_id": "1695045748,05833508-ba71-41d5-988d-04f6762ed0d8",
+                "time_used": 132,
+                "faces": [
+                    {
+                        "face_token": "1a258553d05a834efeedcde77204cf3a",
+                        "face_rectangle": {
+                            "top": 247,
+                            "left": 215,
+                            "width": 351,
+                            "height": 351
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 24
+                            },
+                            "smile": {
+                                "value": 100.0,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 18.191555,
+                                "roll_angle": 1.9406847,
+                                "yaw_angle": 15.083612
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.038,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.038,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.038,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 99.992,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.002,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.002,
+                                    "occlusion": 0.004
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 97.971,
+                                    "no_glass_eye_close": 0.091,
+                                    "normal_glass_eye_open": 1.056,
+                                    "normal_glass_eye_close": 0.005,
+                                    "dark_glasses": 0.092,
+                                    "occlusion": 0.786
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.0,
+                                "disgust": 0.0,
+                                "fear": 0.0,
+                                "happiness": 100.0,
+                                "neutral": 0.0,
+                                "sadness": 0.0,
+                                "surprise": 0.0
+                            },
+                            "facequality": {
+                                "value": 32.366,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 80.982,
+                                "female_score": 85.115
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 1.88,
+                                "close": 0.0,
+                                "open": 98.12
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.369,
+                                    "position_y_coordinate": 0.407,
+                                    "vector_x_component": -0.506,
+                                    "vector_y_component": 0.192,
+                                    "vector_z_component": 0.841
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.261,
+                                    "position_y_coordinate": 0.467,
+                                    "vector_x_component": -0.611,
+                                    "vector_y_component": 0.133,
+                                    "vector_z_component": 0.781
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 54.406,
+                                "stain": 4.197,
+                                "dark_circle": 3.869,
+                                "acne": 7.071
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.037
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.106,
+                                "face_right_occlusion": 0.001
+                            }
+                        }
+                    }
+                ],
+                "image_id": "53BhUfLrGOWyYES7wx0dZA==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 222,
+            "request": {
+                "request_id": "1695045749,efcbf2a7-76fa-421d-8db7-82e7279ae11d",
+                "time_used": 136,
+                "faces": [
+                    {
+                        "face_token": "a4fac1327daac93baf09c6d2b4c5cb81",
+                        "face_rectangle": {
+                            "top": 248,
+                            "left": 205,
+                            "width": 350,
+                            "height": 350
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 24
+                            },
+                            "smile": {
+                                "value": 100.0,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 14.95346,
+                                "roll_angle": 1.9849806,
+                                "yaw_angle": 15.102742
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.035,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.035,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.035,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 99.879,
+                                    "no_glass_eye_close": 0.0,
+                                    "normal_glass_eye_open": 0.009,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.015,
+                                    "occlusion": 0.097
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 99.146,
+                                    "no_glass_eye_close": 0.035,
+                                    "normal_glass_eye_open": 0.387,
+                                    "normal_glass_eye_close": 0.002,
+                                    "dark_glasses": 0.049,
+                                    "occlusion": 0.382
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.0,
+                                "disgust": 0.0,
+                                "fear": 0.0,
+                                "happiness": 99.999,
+                                "neutral": 0.0,
+                                "sadness": 0.0,
+                                "surprise": 0.0
+                            },
+                            "facequality": {
+                                "value": 39.877,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 81.588,
+                                "female_score": 85.502
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.869,
+                                "close": 0.0,
+                                "open": 99.131
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.402,
+                                    "position_y_coordinate": 0.409,
+                                    "vector_x_component": -0.543,
+                                    "vector_y_component": 0.178,
+                                    "vector_z_component": 0.821
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.258,
+                                    "position_y_coordinate": 0.468,
+                                    "vector_x_component": -0.599,
+                                    "vector_y_component": 0.13,
+                                    "vector_z_component": 0.79
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 47.56,
+                                "stain": 3.513,
+                                "dark_circle": 5.424,
+                                "acne": 4.615
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.023
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.038,
+                                "face_right_occlusion": 0.001
+                            }
+                        }
+                    }
+                ],
+                "image_id": "DuVSGwXbyD6V1hX/EwKUDQ==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 228,
+            "request": {
+                "request_id": "1695045749,59381b79-bc8d-46b5-bb4e-cc0034ad73fd",
+                "time_used": 138,
+                "faces": [
+                    {
+                        "face_token": "fb68d470bf7f94b520c3a60c4c8d8156",
+                        "face_rectangle": {
+                            "top": 249,
+                            "left": 202,
+                            "width": 357,
+                            "height": 357
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 20
+                            },
+                            "smile": {
+                                "value": 100.0,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 23.294937,
+                                "roll_angle": 2.9326317,
+                                "yaw_angle": 15.783559
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.033,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.033,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.033,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.002,
+                                    "no_glass_eye_close": 99.993,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.001,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.004
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 0.097,
+                                    "no_glass_eye_close": 99.598,
+                                    "normal_glass_eye_open": 0.001,
+                                    "normal_glass_eye_close": 0.158,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.146
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.0,
+                                "disgust": 0.0,
+                                "fear": 0.0,
+                                "happiness": 100.0,
+                                "neutral": 0.0,
+                                "sadness": 0.0,
+                                "surprise": 0.0
+                            },
+                            "facequality": {
+                                "value": 14.846,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 79.589,
+                                "female_score": 82.176
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.0,
+                                "close": 0.0,
+                                "open": 100.0
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.629,
+                                    "position_y_coordinate": 0.5,
+                                    "vector_x_component": 0.478,
+                                    "vector_y_component": 0.746,
+                                    "vector_z_component": 0.464
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.379,
+                                    "position_y_coordinate": 0.557,
+                                    "vector_x_component": -0.195,
+                                    "vector_y_component": 0.618,
+                                    "vector_z_component": 0.761
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 24.675,
+                                "stain": 8.988,
+                                "dark_circle": 5.106,
+                                "acne": 4.808
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.045
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.041,
+                                "face_right_occlusion": 0
+                            }
+                        }
+                    }
+                ],
+                "image_id": "fLQxeagnAecWs8dVeIaLVQ==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 234,
+            "request": {
+                "request_id": "1695045750,18362bb4-cb7d-4c2c-9ca2-406e8bcdd9d6",
+                "time_used": 131,
+                "faces": [
+                    {
+                        "face_token": "e57d5946d01fcc347b5f4f5420b0dcdd",
+                        "face_rectangle": {
+                            "top": 254,
+                            "left": 201,
+                            "width": 351,
+                            "height": 351
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 21
+                            },
+                            "smile": {
+                                "value": 99.999,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 22.322872,
+                                "roll_angle": 3.271663,
+                                "yaw_angle": 16.371737
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.047,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.047,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.047,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.004,
+                                    "no_glass_eye_close": 99.968,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.028
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 0.143,
+                                    "no_glass_eye_close": 99.38,
+                                    "normal_glass_eye_open": 0.002,
+                                    "normal_glass_eye_close": 0.146,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.33
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.001,
+                                "disgust": 0.001,
+                                "fear": 0.001,
+                                "happiness": 99.834,
+                                "neutral": 0.001,
+                                "sadness": 0.163,
+                                "surprise": 0.001
+                            },
+                            "facequality": {
+                                "value": 15.54,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 78.556,
+                                "female_score": 81.559
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.0,
+                                "close": 0.0,
+                                "open": 100.0
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.711,
+                                    "position_y_coordinate": 0.51,
+                                    "vector_x_component": 0.674,
+                                    "vector_y_component": 0.605,
+                                    "vector_z_component": 0.424
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.407,
+                                    "position_y_coordinate": 0.542,
+                                    "vector_x_component": -0.097,
+                                    "vector_y_component": 0.629,
+                                    "vector_z_component": 0.771
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 48.47,
+                                "stain": 10.72,
+                                "dark_circle": 3.992,
+                                "acne": 2.271
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.061
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.125,
+                                "face_right_occlusion": 0.001
+                            }
+                        }
+                    }
+                ],
+                "image_id": "t6VIcbiQSVbXJG9Ct++fZQ==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 240,
+            "request": {
+                "request_id": "1695045750,68a020de-14a7-4497-ad88-0c82067cc2c9",
+                "time_used": 175,
+                "faces": [
+                    {
+                        "face_token": "83afe2b1dfc78533483c0f054549f2d4",
+                        "face_rectangle": {
+                            "top": 260,
+                            "left": 197,
+                            "width": 352,
+                            "height": 352
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 23
+                            },
+                            "smile": {
+                                "value": 99.58,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 23.029226,
+                                "roll_angle": 2.0998528,
+                                "yaw_angle": 13.864595
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.061,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.061,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.061,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.003,
+                                    "no_glass_eye_close": 99.96,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.036
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 0.156,
+                                    "no_glass_eye_close": 99.74,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.033,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.071
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.001,
+                                "disgust": 0.001,
+                                "fear": 0.001,
+                                "happiness": 99.603,
+                                "neutral": 0.043,
+                                "sadness": 0.351,
+                                "surprise": 0.001
+                            },
+                            "facequality": {
+                                "value": 22.334,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 78.155,
+                                "female_score": 79.582
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.0,
+                                "close": 0.013,
+                                "open": 99.987
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.452,
+                                    "position_y_coordinate": 0.481,
+                                    "vector_x_component": -0.418,
+                                    "vector_y_component": 0.768,
+                                    "vector_z_component": 0.484
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.317,
+                                    "position_y_coordinate": 0.558,
+                                    "vector_x_component": -0.432,
+                                    "vector_y_component": 0.684,
+                                    "vector_z_component": 0.588
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 37.957,
+                                "stain": 10.399,
+                                "dark_circle": 6.08,
+                                "acne": 5.174
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.178
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.09,
+                                "face_right_occlusion": 0.002
+                            }
+                        }
+                    }
+                ],
+                "image_id": "Qa8Mo/r36TfcVIcWLwccgA==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 246,
+            "request": {
+                "request_id": "1695045752,2637fb19-c8a1-44a2-abef-71e98b240a37",
+                "time_used": 122,
+                "faces": [
+                    {
+                        "face_token": "ca862e08fae8fb0fe3f2969aea834b71",
+                        "face_rectangle": {
+                            "top": 248,
+                            "left": 200,
+                            "width": 351,
+                            "height": 351
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 23
+                            },
+                            "smile": {
+                                "value": 16.146,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 23.58864,
+                                "roll_angle": 3.008016,
+                                "yaw_angle": 14.734974
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.078,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.078,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.078,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.033,
+                                    "no_glass_eye_close": 99.766,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.201
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 0.119,
+                                    "no_glass_eye_close": 98.364,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.014,
+                                    "dark_glasses": 0.002,
+                                    "occlusion": 1.5
+                                }
+                            },
+                            "emotion": {
+                                "anger": 3.044,
+                                "disgust": 0.011,
+                                "fear": 0.011,
+                                "happiness": 1.385,
+                                "neutral": 95.373,
+                                "sadness": 0.016,
+                                "surprise": 0.161
+                            },
+                            "facequality": {
+                                "value": 17.195,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 81.645,
+                                "female_score": 82.601
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.004,
+                                "other_occlusion": 0.255,
+                                "close": 22.527,
+                                "open": 77.214
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.334,
+                                    "position_y_coordinate": 0.542,
+                                    "vector_x_component": -0.543,
+                                    "vector_y_component": 0.72,
+                                    "vector_z_component": 0.432
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.292,
+                                    "position_y_coordinate": 0.563,
+                                    "vector_x_component": -0.495,
+                                    "vector_y_component": 0.703,
+                                    "vector_z_component": 0.511
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 47.336,
+                                "stain": 8.45,
+                                "dark_circle": 5.082,
+                                "acne": 1.806
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.078
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.013,
+                                "face_right_occlusion": 0.001
+                            }
+                        }
+                    }
+                ],
+                "image_id": "NRE7d//HImF273Kii6tnWg==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 252,
+            "request": {
+                "request_id": "1695045753,b94ba74e-818a-49e1-bdd1-a0a45bcfe68e",
+                "time_used": 136,
+                "faces": [
+                    {
+                        "face_token": "809abb3592bb8efd4734b38344917c97",
+                        "face_rectangle": {
+                            "top": 248,
+                            "left": 204,
+                            "width": 348,
+                            "height": 348
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 23
+                            },
+                            "smile": {
+                                "value": 80.199,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 21.877308,
+                                "roll_angle": 8.999329,
+                                "yaw_angle": 9.581179
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.04,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.04,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.04,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.007,
+                                    "no_glass_eye_close": 99.986,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.008
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 0.439,
+                                    "no_glass_eye_close": 99.506,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.004,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.051
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.948,
+                                "disgust": 0.044,
+                                "fear": 0.044,
+                                "happiness": 36.725,
+                                "neutral": 60.318,
+                                "sadness": 1.461,
+                                "surprise": 0.46
+                            },
+                            "facequality": {
+                                "value": 45.403,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 82.376,
+                                "female_score": 84.292
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.0,
+                                "close": 99.984,
+                                "open": 0.016
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.574,
+                                    "position_y_coordinate": 0.519,
+                                    "vector_x_component": 0.16,
+                                    "vector_y_component": 0.595,
+                                    "vector_z_component": 0.788
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.427,
+                                    "position_y_coordinate": 0.527,
+                                    "vector_x_component": -0.05,
+                                    "vector_y_component": 0.59,
+                                    "vector_z_component": 0.806
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 39.035,
+                                "stain": 7.953,
+                                "dark_circle": 6.283,
+                                "acne": 2.69
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.015
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.002,
+                                "face_right_occlusion": 0
+                            }
+                        }
+                    }
+                ],
+                "image_id": "e9hPpxvIyIhICL0oJp58Eg==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 258,
+            "request": {
+                "request_id": "1695045753,b0dd189c-faa3-4bc5-925d-f835e07f98a4",
+                "time_used": 128,
+                "faces": [
+                    {
+                        "face_token": "5705dfe4ce7237864b0053a8c6590017",
+                        "face_rectangle": {
+                            "top": 246,
+                            "left": 211,
+                            "width": 347,
+                            "height": 347
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 22
+                            },
+                            "smile": {
+                                "value": 85.868,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 21.58256,
+                                "roll_angle": 13.784634,
+                                "yaw_angle": 2.4642203
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.728,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.728,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.728,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.003,
+                                    "no_glass_eye_close": 99.994,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.001,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.002
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 4.755,
+                                    "no_glass_eye_close": 95.209,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.001,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.035
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.005,
+                                "disgust": 0.005,
+                                "fear": 0.005,
+                                "happiness": 1.109,
+                                "neutral": 37.175,
+                                "sadness": 61.233,
+                                "surprise": 0.467
+                            },
+                            "facequality": {
+                                "value": 67.991,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 83.323,
+                                "female_score": 85.845
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.0,
+                                "close": 30.75,
+                                "open": 69.25
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.561,
+                                    "position_y_coordinate": 0.563,
+                                    "vector_x_component": 0.213,
+                                    "vector_y_component": 0.743,
+                                    "vector_z_component": 0.634
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.383,
+                                    "position_y_coordinate": 0.528,
+                                    "vector_x_component": -0.217,
+                                    "vector_y_component": 0.595,
+                                    "vector_z_component": 0.774
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 66.412,
+                                "stain": 8.076,
+                                "dark_circle": 6.78,
+                                "acne": 5.639
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.004
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.001,
+                                "face_right_occlusion": 0
+                            }
+                        }
+                    }
+                ],
+                "image_id": "2XYEmgJC/zIUPCAzlnVTRA==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 264,
+            "request": {
+                "request_id": "1695045754,a08d340d-10bd-4758-b556-16352a16a453",
+                "time_used": 122,
+                "faces": [
+                    {
+                        "face_token": "536b645431779eea0ff1f7fd1ffc34b3",
+                        "face_rectangle": {
+                            "top": 242,
+                            "left": 230,
+                            "width": 344,
+                            "height": 344
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 21
+                            },
+                            "smile": {
+                                "value": 54.965,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 18.568419,
+                                "roll_angle": 16.01653,
+                                "yaw_angle": -0.57934606
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.939,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.939,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.939,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.007,
+                                    "no_glass_eye_close": 99.928,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.025,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.04
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 0.034,
+                                    "no_glass_eye_close": 99.955,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.011
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.524,
+                                "disgust": 0.036,
+                                "fear": 0.036,
+                                "happiness": 4.151,
+                                "neutral": 60.614,
+                                "sadness": 34.427,
+                                "surprise": 0.213
+                            },
+                            "facequality": {
+                                "value": 81.21,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 87.4,
+                                "female_score": 88.049
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.001,
+                                "close": 0.009,
+                                "open": 99.989
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.55,
+                                    "position_y_coordinate": 0.563,
+                                    "vector_x_component": -0.132,
+                                    "vector_y_component": 0.758,
+                                    "vector_z_component": 0.638
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.372,
+                                    "position_y_coordinate": 0.532,
+                                    "vector_x_component": -0.328,
+                                    "vector_y_component": 0.623,
+                                    "vector_z_component": 0.71
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 83.283,
+                                "stain": 9.217,
+                                "dark_circle": 4.471,
+                                "acne": 2.971
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0,
+                                "face_right_occlusion": 0.001
+                            }
+                        }
+                    }
+                ],
+                "image_id": "kBg27a93cRDJ1MahwodF6w==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 270,
+            "request": {
+                "request_id": "1695045754,33eed432-25e9-4cf7-a701-1c468900bd07",
+                "time_used": 153,
+                "faces": [
+                    {
+                        "face_token": "96c8f1839041a874611c54fe6b1cfab8",
+                        "face_rectangle": {
+                            "top": 234,
+                            "left": 239,
+                            "width": 347,
+                            "height": 347
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 20
+                            },
+                            "smile": {
+                                "value": 58.636,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 19.71095,
+                                "roll_angle": 20.06889,
+                                "yaw_angle": -7.77501
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 1.12,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 1.12,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 1.12,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.026,
+                                    "no_glass_eye_close": 99.759,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.107,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.107
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 0.732,
+                                    "no_glass_eye_close": 99.189,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.001,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.078
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.084,
+                                "disgust": 0.084,
+                                "fear": 0.084,
+                                "happiness": 2.925,
+                                "neutral": 5.144,
+                                "sadness": 88.197,
+                                "surprise": 3.482
+                            },
+                            "facequality": {
+                                "value": 61.388,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 87.418,
+                                "female_score": 88.109
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.176,
+                                "close": 99.69,
+                                "open": 0.134
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.653,
+                                    "position_y_coordinate": 0.575,
+                                    "vector_x_component": 0.342,
+                                    "vector_y_component": 0.688,
+                                    "vector_z_component": 0.64
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.432,
+                                    "position_y_coordinate": 0.519,
+                                    "vector_x_component": -0.192,
+                                    "vector_y_component": 0.641,
+                                    "vector_z_component": 0.743
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 89.027,
+                                "stain": 3.728,
+                                "dark_circle": 7.32,
+                                "acne": 4.446
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.013
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0,
+                                "face_right_occlusion": 0.023
+                            }
+                        }
+                    }
+                ],
+                "image_id": "YGXIWORRhYlY5qext3Svog==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 276,
+            "request": {
+                "request_id": "1695045754,84641382-0f83-42f3-bab8-1733fe55e4ae",
+                "time_used": 131,
+                "faces": [
+                    {
+                        "face_token": "4a06d76b043d29d31c1e4fd9afd19ef2",
+                        "face_rectangle": {
+                            "top": 225,
+                            "left": 248,
+                            "width": 354,
+                            "height": 354
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 22
+                            },
+                            "smile": {
+                                "value": 55.409,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 13.7142105,
+                                "roll_angle": 25.797932,
+                                "yaw_angle": -19.425625
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.551,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.551,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.551,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.019,
+                                    "no_glass_eye_close": 99.463,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.429,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.089
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 0.463,
+                                    "no_glass_eye_close": 99.348,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.189
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.149,
+                                "disgust": 0.149,
+                                "fear": 0.149,
+                                "happiness": 29.821,
+                                "neutral": 9.951,
+                                "sadness": 40.758,
+                                "surprise": 19.025
+                            },
+                            "facequality": {
+                                "value": 15.533,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 84.781,
+                                "female_score": 86.303
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 99.944,
+                                "close": 0.048,
+                                "open": 0.008
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.714,
+                                    "position_y_coordinate": 0.574,
+                                    "vector_x_component": 0.505,
+                                    "vector_y_component": 0.633,
+                                    "vector_z_component": 0.586
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.432,
+                                    "position_y_coordinate": 0.508,
+                                    "vector_x_component": -0.128,
+                                    "vector_y_component": 0.609,
+                                    "vector_z_component": 0.783
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 81.15,
+                                "stain": 5.135,
+                                "dark_circle": 6.681,
+                                "acne": 9.31
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.137
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.001,
+                                "face_right_occlusion": 0.401
+                            }
+                        }
+                    }
+                ],
+                "image_id": "zfEL94d0/SIGXuNUAdJyzw==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 282,
+            "request": {
+                "request_id": "1695045755,26d70312-224a-4258-b981-ee9aa6715bfe",
+                "time_used": 233,
+                "faces": [
+                    {
+                        "face_token": "e1acecd1905fbb5d11f6a245ede0b56a",
+                        "face_rectangle": {
+                            "top": 223,
+                            "left": 254,
+                            "width": 355,
+                            "height": 355
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 20
+                            },
+                            "smile": {
+                                "value": 10.246,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 15.402602,
+                                "roll_angle": 22.772003,
+                                "yaw_angle": -21.643442
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.497,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.497,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.497,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.848,
+                                    "no_glass_eye_close": 82.617,
+                                    "normal_glass_eye_open": 0.017,
+                                    "normal_glass_eye_close": 2.028,
+                                    "dark_glasses": 0.098,
+                                    "occlusion": 14.392
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 0.0,
+                                    "no_glass_eye_close": 99.999,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.001
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.004,
+                                "disgust": 0.004,
+                                "fear": 0.004,
+                                "happiness": 1.231,
+                                "neutral": 77.887,
+                                "sadness": 20.784,
+                                "surprise": 0.087
+                            },
+                            "facequality": {
+                                "value": 6.233,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 83.387,
+                                "female_score": 85.29
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.0,
+                                "close": 99.643,
+                                "open": 0.357
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.38,
+                                    "position_y_coordinate": 0.585,
+                                    "vector_x_component": -0.558,
+                                    "vector_y_component": 0.67,
+                                    "vector_z_component": 0.489
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.524,
+                                    "position_y_coordinate": 0.499,
+                                    "vector_x_component": 0.108,
+                                    "vector_y_component": 0.733,
+                                    "vector_z_component": 0.672
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 63.2,
+                                "stain": 4.701,
+                                "dark_circle": 5.833,
+                                "acne": 5.074
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.007
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0,
+                                "face_right_occlusion": 0.297
+                            }
+                        }
+                    }
+                ],
+                "image_id": "uAiVhJrWJ80Sp8eh/ql+rg==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 288,
+            "request": {
+                "request_id": "1695045755,bccc68fc-9ba1-428f-b5bb-84d1e2b97f9f",
+                "time_used": 125,
+                "faces": [
+                    {
+                        "face_token": "a6c8215b340ad2bbffb68f635ceadea9",
+                        "face_rectangle": {
+                            "top": 216,
+                            "left": 265,
+                            "width": 362,
+                            "height": 362
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 20
+                            },
+                            "smile": {
+                                "value": 31.398,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 17.593475,
+                                "roll_angle": 20.660946,
+                                "yaw_angle": -20.053822
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.648,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.648,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.648,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.73,
+                                    "no_glass_eye_close": 82.842,
+                                    "normal_glass_eye_open": 0.028,
+                                    "normal_glass_eye_close": 6.917,
+                                    "dark_glasses": 0.05,
+                                    "occlusion": 9.433
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 0.006,
+                                    "no_glass_eye_close": 99.95,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.0,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.044
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.006,
+                                "disgust": 0.006,
+                                "fear": 0.006,
+                                "happiness": 13.625,
+                                "neutral": 22.527,
+                                "sadness": 63.826,
+                                "surprise": 0.006
+                            },
+                            "facequality": {
+                                "value": 9.642,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 80.187,
+                                "female_score": 83.868
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.0,
+                                "close": 100.0,
+                                "open": 0.0
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.395,
+                                    "position_y_coordinate": 0.573,
+                                    "vector_x_component": -0.566,
+                                    "vector_y_component": 0.658,
+                                    "vector_z_component": 0.497
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.526,
+                                    "position_y_coordinate": 0.483,
+                                    "vector_x_component": 0.077,
+                                    "vector_y_component": 0.739,
+                                    "vector_z_component": 0.67
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 73.385,
+                                "stain": 4.369,
+                                "dark_circle": 3.693,
+                                "acne": 2.437
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.01
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0,
+                                "face_right_occlusion": 0.541
+                            }
+                        }
+                    }
+                ],
+                "image_id": "VRKG/BclueSNsiR07Ll8uA==",
+                "face_num": 1
+            }
+        },
+        {
+            "frame": 294,
+            "request": {
+                "request_id": "1695045756,0ec36bff-9f4c-4323-8f0e-e552be93023e",
+                "time_used": 123,
+                "faces": [
+                    {
+                        "face_token": "ce2a4127d2c37789763d6856b99e7fef",
+                        "face_rectangle": {
+                            "top": 226,
+                            "left": 277,
+                            "width": 362,
+                            "height": 362
+                        },
+                        "attributes": {
+                            "gender": {
+                                "value": "Female"
+                            },
+                            "age": {
+                                "value": 21
+                            },
+                            "smile": {
+                                "value": 58.385,
+                                "threshold": 50.0
+                            },
+                            "headpose": {
+                                "pitch_angle": 17.763145,
+                                "roll_angle": 18.05844,
+                                "yaw_angle": -22.26534
+                            },
+                            "blur": {
+                                "blurness": {
+                                    "value": 0.412,
+                                    "threshold": 50.0
+                                },
+                                "motionblur": {
+                                    "value": 0.412,
+                                    "threshold": 50.0
+                                },
+                                "gaussianblur": {
+                                    "value": 0.412,
+                                    "threshold": 50.0
+                                }
+                            },
+                            "eyestatus": {
+                                "left_eye_status": {
+                                    "no_glass_eye_open": 0.042,
+                                    "no_glass_eye_close": 99.853,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.036,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.069
+                                },
+                                "right_eye_status": {
+                                    "no_glass_eye_open": 0.136,
+                                    "no_glass_eye_close": 99.737,
+                                    "normal_glass_eye_open": 0.0,
+                                    "normal_glass_eye_close": 0.001,
+                                    "dark_glasses": 0.0,
+                                    "occlusion": 0.126
+                                }
+                            },
+                            "emotion": {
+                                "anger": 0.001,
+                                "disgust": 0.001,
+                                "fear": 0.001,
+                                "happiness": 0.082,
+                                "neutral": 0.236,
+                                "sadness": 99.679,
+                                "surprise": 0.001
+                            },
+                            "facequality": {
+                                "value": 4.03,
+                                "threshold": 70.1
+                            },
+                            "beauty": {
+                                "male_score": 79.7,
+                                "female_score": 82.713
+                            },
+                            "mouthstatus": {
+                                "surgical_mask_or_respirator": 0.0,
+                                "other_occlusion": 0.061,
+                                "close": 99.939,
+                                "open": 0.0
+                            },
+                            "eyegaze": {
+                                "left_eye_gaze": {
+                                    "position_x_coordinate": 0.681,
+                                    "position_y_coordinate": 0.561,
+                                    "vector_x_component": 0.47,
+                                    "vector_y_component": 0.682,
+                                    "vector_z_component": 0.56
+                                },
+                                "right_eye_gaze": {
+                                    "position_x_coordinate": 0.356,
+                                    "position_y_coordinate": 0.48,
+                                    "vector_x_component": -0.508,
+                                    "vector_y_component": 0.693,
+                                    "vector_z_component": 0.512
+                                }
+                            },
+                            "skinstatus": {
+                                "health": 79.498,
+                                "stain": 3.16,
+                                "dark_circle": 5.663,
+                                "acne": 4.794
+                            },
+                            "glass": {
+                                "value": "None"
+                            },
+                            "nose_occlusion": {
+                                "nose_occ": 0
+                            },
+                            "chin_occlusion": {
+                                "chin_occ": 0.047
+                            },
+                            "face_occlusion": {
+                                "face_left_occlusion": 0.002,
+                                "face_right_occlusion": 0.333
+                            }
+                        }
+                    }
+                ],
+                "image_id": "QA3272BvDrgMHx8SvqhuqA==",
+                "face_num": 1
+            }
+        }
+    ]
+}
